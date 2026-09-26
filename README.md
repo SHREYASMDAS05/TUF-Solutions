@@ -6,22 +6,23 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 0 | 6 | 0 | `2026-09-26` |
+| **7** | 0 | 7 | 0 | `2026-09-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [203. Bipartite graph](./DSA/Graphs/bipartite-graph) | [PY](./DSA/Graphs/bipartite-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0002 | [192. Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0003 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0004 | [425. Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [PY](./DSA/Graphs/find-eventual-safe-states/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0005 | [838. Linear Search](./DSA/Arrays/linear-search) | [PY](./DSA/Arrays/linear-search/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
-| 0006 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0002 | [28. Course Schedule I](./DSA/Graphs/course-schedule-i) | [PY](./DSA/Graphs/course-schedule-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0003 | [192. Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0004 | [190. Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0005 | [425. Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [PY](./DSA/Graphs/find-eventual-safe-states/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0006 | [838. Linear Search](./DSA/Arrays/linear-search) | [PY](./DSA/Arrays/linear-search/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
+| 0007 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
 
 ---
 
