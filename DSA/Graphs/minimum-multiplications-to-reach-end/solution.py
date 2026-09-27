@@ -1,6 +1,7 @@
 class Solution:
     def minimumMultiplications(self, arr, start, end):
-        q = deque([(start , 0)]) #current_value , steps_takes 
+        q = deque() #current_value , steps_takes 
+        q.append((start , 0))
         visited = [False] * (100000)
         visited[start] = True
         while q:
