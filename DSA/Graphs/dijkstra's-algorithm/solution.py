@@ -9,8 +9,7 @@ class Solution:
             adj[u].append((v ,w))
         while heap:
             current_dist , u = heapq.heappop(heap)
-            if current_dist > dist[u]:
-                continue
+            
 
             for v , w in adj[u]:
                 new_dist = current_dist + w
