@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **27** | 0 | 27 | 0 | `2026-09-28` |
+| **28** | 0 | 28 | 0 | `2026-09-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (27)
+### DSA (28)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -42,7 +42,8 @@
 | 0024 | [304. Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 | 0025 | [246. Swim in Rising Water](./DSA/General/swim-in-rising-water) | [PY](./DSA/General/swim-in-rising-water/solution.py) | ⚪ Unspecified | `General` | `2026-09-27` |
 | 0026 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0027 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0027 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0028 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 
 ---
 

@@ -1,0 +1,56 @@
+# [750. Upper Bound](https://takeuforward.org/practice/dsa/upper-bound)
+
+![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+
+---
+
+## 📝 Problem Statement
+
+Given a sorted array of nums and an integer x, write a program to find the **upper bound** of **x** .
+
+The **upper bound** of **x** is defined as the **smallest index** i such that **nums[i] > x** .
+
+If no such index is found, return the size of the array.
+
+### Example 1:
+
+**Input:** n= 4, nums = [1,2,2,3], x = 2
+
+**Output:** 3
+
+**Explanation:**
+
+Index 3 is the smallest index such that arr[3] > x.
+
+### Example 2:
+
+**Input:** n = 5, nums = [3,5,8,15,19], x = 9
+
+**Output:** 3
+
+**Explanation:**
+
+Index 3 is the smallest index such that arr[3] > x.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
+
+### Constraints
+
+- &nbsp;&nbsp;1 <= nums.length <= 10^5
+- &nbsp;&nbsp;-10^5 < nums[i], x < 10^5
+- &nbsp;&nbsp;nums is sorted in ascending order.
+
+---
+
+## 💡 Complexity Analysis
+
+- **Time Complexity:** $\mathcal{O}(N)$
+- **Space Complexity:** $\mathcal{O}(1)$
+
+---
+
+<p align="center">
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+</p>
