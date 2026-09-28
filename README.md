@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 0 | 23 | 0 | `2026-09-28` |
+| **24** | 0 | 24 | 0 | `2026-09-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (23)
+### DSA (24)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -29,16 +29,17 @@
 | 0011 | [448. Find the city with the smallest number of neighbors](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors) | [PY](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 | 0012 | [127. Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [PY](./DSA/Graphs/floyd-warshall-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 | 0013 | [838. Linear Search](./DSA/Arrays/linear-search) | [PY](./DSA/Arrays/linear-search/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
-| 0014 | [857. Minimum multiplications to reach end](./DSA/Graphs/minimum-multiplications-to-reach-end) | [PY](./DSA/Graphs/minimum-multiplications-to-reach-end/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0015 | [391. Number of operations to make network connected](./DSA/Graphs/number-of-operations-to-make-network-connected) | [PY](./DSA/Graphs/number-of-operations-to-make-network-connected/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-28` |
-| 0016 | [401. Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0017 | [969. Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0018 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0019 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0020 | [304. Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0021 | [246. Swim in Rising Water](./DSA/General/swim-in-rising-water) | [PY](./DSA/General/swim-in-rising-water/solution.py) | ⚪ Unspecified | `General` | `2026-09-27` |
-| 0022 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0023 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0014 | [97. Longest Consecutive Sequence in an Array](./DSA/Hashing/longest-consecutive-sequence-in-an-array) | [PY](./DSA/Hashing/longest-consecutive-sequence-in-an-array/solution.py) | ⚪ Unspecified | `Hashing` | `2026-09-28` |
+| 0015 | [857. Minimum multiplications to reach end](./DSA/Graphs/minimum-multiplications-to-reach-end) | [PY](./DSA/Graphs/minimum-multiplications-to-reach-end/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0016 | [391. Number of operations to make network connected](./DSA/Graphs/number-of-operations-to-make-network-connected) | [PY](./DSA/Graphs/number-of-operations-to-make-network-connected/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-28` |
+| 0017 | [401. Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0018 | [969. Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0019 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0020 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0021 | [304. Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0022 | [246. Swim in Rising Water](./DSA/General/swim-in-rising-water) | [PY](./DSA/General/swim-in-rising-water/solution.py) | ⚪ Unspecified | `General` | `2026-09-27` |
+| 0023 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0024 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 
 ---
 
