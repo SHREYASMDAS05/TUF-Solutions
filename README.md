@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **39** | 0 | 39 | 0 | `2026-10-05` |
+| **40** | 0 | 40 | 0 | `2026-10-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (39)
+### DSA (40)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -33,28 +33,29 @@
 | 0015 | [765. Find out how many times the array is rotated](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated) | [PY](./DSA/Arrays/find-out-how-many-times-the-array-is-rotated/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
 | 0016 | [786. Find square root of a number](./DSA/General/find-square-root-of-a-number) | [PY](./DSA/General/find-square-root-of-a-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-05` |
 | 0017 | [448. Find the city with the smallest number of neighbors](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors) | [PY](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0018 | [279. First and last occurrence](./DSA/General/first-and-last-occurrence) | [PY](./DSA/General/first-and-last-occurrence/solution.py) | ⚪ Unspecified | `General` | `2026-10-05` |
-| 0019 | [899. Floor and Ceil in Sorted Array](./DSA/Arrays/floor-and-ceil-in-sorted-array) | [PY](./DSA/Arrays/floor-and-ceil-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0020 | [127. Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [PY](./DSA/Graphs/floyd-warshall-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0021 | [838. Linear Search](./DSA/Arrays/linear-search) | [PY](./DSA/Arrays/linear-search/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
-| 0022 | [97. Longest Consecutive Sequence in an Array](./DSA/Hashing/longest-consecutive-sequence-in-an-array) | [PY](./DSA/Hashing/longest-consecutive-sequence-in-an-array/solution.py) | ⚪ Unspecified | `Hashing` | `2026-09-28` |
-| 0023 | [729. Lower Bound](./DSA/General/lower-bound-) | [PY](./DSA/General/lower-bound-/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0024 | [857. Minimum multiplications to reach end](./DSA/Graphs/minimum-multiplications-to-reach-end) | [PY](./DSA/Graphs/minimum-multiplications-to-reach-end/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0025 | [391. Number of operations to make network connected](./DSA/Graphs/number-of-operations-to-make-network-connected) | [PY](./DSA/Graphs/number-of-operations-to-make-network-connected/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-28` |
-| 0026 | [401. Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0027 | [969. Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0028 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
-| 0029 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
-| 0030 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-09-28` |
-| 0031 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [PY](./DSA/Arrays/search-x-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
-| 0032 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0033 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0034 | [304. Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
-| 0035 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [PY](./DSA/Arrays/single-element-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
-| 0036 | [246. Swim in Rising Water](./DSA/General/swim-in-rising-water) | [PY](./DSA/General/swim-in-rising-water/solution.py) | ⚪ Unspecified | `General` | `2026-09-27` |
-| 0037 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
-| 0038 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0039 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0018 | [340. Find the smallest divisor](./DSA/General/find-the-smallest-divisor) | [PY](./DSA/General/find-the-smallest-divisor/solution.py) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0019 | [279. First and last occurrence](./DSA/General/first-and-last-occurrence) | [PY](./DSA/General/first-and-last-occurrence/solution.py) | ⚪ Unspecified | `General` | `2026-10-05` |
+| 0020 | [899. Floor and Ceil in Sorted Array](./DSA/Arrays/floor-and-ceil-in-sorted-array) | [PY](./DSA/Arrays/floor-and-ceil-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0021 | [127. Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [PY](./DSA/Graphs/floyd-warshall-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0022 | [838. Linear Search](./DSA/Arrays/linear-search) | [PY](./DSA/Arrays/linear-search/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-26` |
+| 0023 | [97. Longest Consecutive Sequence in an Array](./DSA/Hashing/longest-consecutive-sequence-in-an-array) | [PY](./DSA/Hashing/longest-consecutive-sequence-in-an-array/solution.py) | ⚪ Unspecified | `Hashing` | `2026-09-28` |
+| 0024 | [729. Lower Bound](./DSA/General/lower-bound-) | [PY](./DSA/General/lower-bound-/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0025 | [857. Minimum multiplications to reach end](./DSA/Graphs/minimum-multiplications-to-reach-end) | [PY](./DSA/Graphs/minimum-multiplications-to-reach-end/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0026 | [391. Number of operations to make network connected](./DSA/Graphs/number-of-operations-to-make-network-connected) | [PY](./DSA/Graphs/number-of-operations-to-make-network-connected/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-28` |
+| 0027 | [401. Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [PY](./DSA/Graphs/path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0028 | [969. Print Shortest Path](./DSA/Graphs/print-shortest-path-) | [PY](./DSA/Graphs/print-shortest-path-/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0029 | [112. Search in rotated sorted array-II](./DSA/Arrays/search-in-rotated-sorted-array-2) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-2/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
+| 0030 | [46. Search in rotated sorted array-I](./DSA/Arrays/search-in-rotated-sorted-array-i) | [PY](./DSA/Arrays/search-in-rotated-sorted-array-i/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
+| 0031 | [255. Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-09-28` |
+| 0032 | [2. Search X in sorted array](./DSA/Arrays/search-x-in-sorted-array) | [PY](./DSA/Arrays/search-x-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0033 | [955. Shortest path in DAG](./DSA/Graphs/shortest-path-in-dag) | [PY](./DSA/Graphs/shortest-path-in-dag/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0034 | [961. Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [PY](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0035 | [304. Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-path-with-minimum-effort) | [PY](./DSA/Graphs/shortest-path-with-minimum-effort/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
+| 0036 | [224. Single element in sorted array](./DSA/Arrays/single-element-in-sorted-array) | [PY](./DSA/Arrays/single-element-in-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-05` |
+| 0037 | [246. Swim in Rising Water](./DSA/General/swim-in-rising-water) | [PY](./DSA/General/swim-in-rising-water/solution.py) | ⚪ Unspecified | `General` | `2026-09-27` |
+| 0038 | [201. Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [PY](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-26` |
+| 0039 | [750. Upper Bound](./DSA/General/upper-bound) | [PY](./DSA/General/upper-bound/solution.py) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0040 | [37. Word ladder I](./DSA/Graphs/word-ladder-i) | [PY](./DSA/Graphs/word-ladder-i/solution.py) | ⚪ Unspecified | `Graphs` | `2026-09-27` |
 
 ---
 
