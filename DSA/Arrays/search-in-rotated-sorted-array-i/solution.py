@@ -1,0 +1,23 @@
+class Solution:
+    def search(self, nums, target):
+        l ,r = 0 , len(nums) - 1
+        while l <= r:
+            m = (l + r) // 2
+            if nums[m] == target:
+                return m 
+            #search in right sorted 
+            elif nums[m] < nums[l]:
+                if nums[m] < target <= nums[r]:
+                    l = m + 1
+                else:
+                    r = m - 1
+                    #serch in lefr sorted array
+
+            else:
+                if nums[m] > target >= nums[l]:
+                    r = m-1
+                else:
+                    l = m + 1
+        return -1 
+        
+
