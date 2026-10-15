@@ -1,7 +1,7 @@
 class Solution:
     def ninjaTraining(self, matrix):
         n = len(matrix)
-        dp = [[-1] * 4 for i in range(n+1) ]
+        dp = [[0] * 4 for i in range(n+1) ]
         '''
         def dfs(day , last):
             if day == n:
@@ -18,9 +18,7 @@ class Solution:
 
         return dfs(0 , -1)
         '''
-        for i in range(4):
-            dp[n-1][i] = 0
-        new_last = -1
+
         for day in range(n-1 , -1 , -1):
             for last in range(-1 , 3):
                 points = 0
@@ -30,4 +28,4 @@ class Solution:
                 dp[day][last+1] = points
 
         
-        return dp[0][0] + 1
+        return dp[0][0] 
